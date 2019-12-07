@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nicol\\Source\\Repos\\Azure.Pipline.CI\\Azure.Pipline.CI\\Azure.Pipline.CI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nicol\\Source\\Repos\\Azure.Pipline.CI\\Azure.Pipline.CI\\Azure.Pipline.CI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\Source\\Repos\\Azure.Pipline.CI\\Azure.Pipline.CI\\Azure.Pipline.CI.csproj",
+        "projectName": "Azure.Pipline.CI",
+        "projectPath": "C:\\Users\\nicol\\Source\\Repos\\Azure.Pipline.CI\\Azure.Pipline.CI\\Azure.Pipline.CI.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Source\\Repos\\Azure.Pipline.CI\\Azure.Pipline.CI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Cake.Yaml": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Azure.Devices": {
+              "target": "Package",
+              "version": "[1.18.2, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.21.2, )"
+            },
+            "Microsoft.Azure.Devices.Shared": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
+            "Microsoft.Azure.DocumentDB": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "Microsoft.Azure.KeyVault.Extensions": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.Azure.Search.Common": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.Azure.Search.Data": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.Azure.Search.Service": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.DocAsCode.YamlSerialization": {
+              "target": "Package",
+              "version": "[2.47.0, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.28, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Rest.ClientRuntime.Azure": {
+              "target": "Package",
+              "version": "[3.3.19, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Fabric.MSBuild": {
+              "target": "Package",
+              "version": "[1.6.9, )"
+            },
+            "Microsoft.WindowsAzure.SDK": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
