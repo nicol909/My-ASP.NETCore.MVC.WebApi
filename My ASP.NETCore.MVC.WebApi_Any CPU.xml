@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iasettings>
+  <projectproperties>
+    <manufacturer>nicol</manufacturer>
+    <productname>My ASP.NETCore.MVC.WebApi</productname>
+    <productversion>1.0.0.0</productversion>
+    <productcode>{5263f656-254e-4ffe-a27b-d6ec811ebc2f}</productcode>
+    <upgradecode>{dfc365e0-c7de-4a4c-8d43-640068e9e5dd}</upgradecode>
+    <language>0</language>
+    <languagename>English</languagename>
+  </projectproperties>
+  <summary>
+    <title>My ASP.NETCore.MVC.WebApi</title>
+    <subject>My ASP.NETCore.MVC.WebApi</subject>
+    <author>nicol</author>
+    <summarycomments>My ASP.NETCore.MVC.WebApi</summarycomments>
+    <revisioncode>{4734dba9-76c8-4c40-925a-d3f3136b081f}</revisioncode>
+    <uacelevation>highestAvailable</uacelevation>
+  </summary>
+  <addremove>
+    <publishername>nicol</publishername>
+    <contactname>nicol</contactname>
+    <helplink>http://www.mywebsite.com</helplink>
+    <productupdatelink>http://www.mywebsite.com</productupdatelink>
+    <addremovecomments>All Rights Reserved</addremovecomments>
+    <iconfile />
+  </addremove>
+  <codegen>
+    <generateincludefiles>0</generateincludefiles>
+    <generatefeatures>1</generatefeatures>
+    <refreshscript>0</refreshscript>
+  </codegen>
+  <compilervariables>
+    <variables />
+  </compilervariables>
+  <build>
+    <buildtype>0</buildtype>
+    <buildasmsi>False</buildasmsi>
+    <cachesources>1</cachesources>
+  </build>
+  <targetfolders />
+  <files>
+    <filedetails filename="E:\Source\Repos\My ASP.NETCore.MVC.WebApi\My ASP.NETCore.MVC.WebApi\bin\Debug\netcoreapp3.0\My ASP.NETCore.MVC.WebApi.dll" targetlocation="$TARGETDIR$" type="2" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="1" />
+  </files>
+  <dependencies />
+  <registry />
+  <dialogtheme>
+    <themename>Official</themename>
+  </dialogtheme>
+  <authenticode>
+    <sign>0</sign>
+    <mode>0</mode>
+    <certificatefile />
+    <keyfile />
+    <pfxfile />
+    <productinfourl />
+    <authpassword />
+    <timestampurl />
+    <signall>0</signall>
+  </authenticode>
+  <compression>
+    <compressiontype>8</compressiontype>
+    <encrypt>0</encrypt>
+    <compressionpassword />
+  </compression>
+  <output>
+    <outputtype>0</outputtype>
+    <location />
+    <filename />
+    <calculatefilehash>0</calculatefilehash>
+    <refreshrevisioncode>1</refreshrevisioncode>
+  </output>
+</iasettings>
